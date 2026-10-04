@@ -6,7 +6,7 @@ A small todo app: an HTTP API on Postgres, and a web page served by the same ser
 - `public/` is the web page, plain HTML and JavaScript with no build step.
 - `db/schema.sql` is the database schema. The server applies it when it starts.
 
-The mobile app, [`sfdk-ai/todo-mobile`](https://github.com/sfdk-ai/todo-mobile), is another client of the same API.
+The mobile app, [`orchestraworks/todo-mobile`](https://github.com/orchestraworks/todo-mobile), is another client of the same API.
 
 ## What you need
 
